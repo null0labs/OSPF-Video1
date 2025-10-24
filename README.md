@@ -4,5 +4,4 @@ OSPF Explained Part 1: Fundamentals & Basic Configuration
 
 
 YouTube Video:
-[<img width="1091" height="718" alt="image" src="https://github.com/user-attachments/assets/e510ebc9-835f-4fe2-9394-2e8940af1fe9" />
-](https://youtu.be/64O575VO6XI?si=JLxRkdH8ht4O0jk6)
+https://youtu.be/64O575VO6XI?si=JLxRkdH8ht4O0jk6
